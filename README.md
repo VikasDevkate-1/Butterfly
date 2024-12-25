@@ -35,5 +35,5 @@ Butterfly World is designed to educate and inspire visitors about the fascinatin
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/VikasDevkate-1/Butterfly.git
 
